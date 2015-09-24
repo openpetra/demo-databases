@@ -1,4 +1,4 @@
-OrganisationName,Addr2,PostCode,City,Province,CountryCode,IsSupplier,Currency
+﻿OrganisationName,Addr2,PostCode,City,Province,CountryCode,IsSupplier,Currency
 MSO,LindenstraÃe 35,39317,Parey,Sachsen-Anhalt,DE,yes,EUR
 Hans-Dieter Neumann,Tannenweg 42,19217,Vitense,Mecklenburg-Vorpommern,DE,yes,EUR
 Cintia,BergstraÃe 34,1594,Gleina,Sachsen,DE,no,EUR

@@ -1,4 +1,4 @@
-identifier,DateIssued,Supplier,Amount,PaidAfterXDays,ExpenseAccount
+﻿identifier,DateIssued,Supplier,Amount,PaidAfterXDays,ExpenseAccount
 1,2012-04-20T00:00:00,703,502636,11,78
 2,2012-09-15T00:00:00,805,261029,3,77
 3,2012-07-07T00:00:00,743,301349,13,281

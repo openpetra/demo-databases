@@ -1,4 +1,4 @@
-identifier,frequency,startdate,splitgift,donor,motivation_1,recipient_support_1,recipient_keymin_1,recipient_field_1,amount_1,motivation_2,recipient_support_2,recipient_keymin_2,recipient_field_2,amount_2,motivation_3,recipient_support_3,recipient_keymin_3,recipient_field_3,amount_3
+﻿identifier,frequency,startdate,splitgift,donor,motivation_1,recipient_support_1,recipient_keymin_1,recipient_field_1,amount_1,motivation_2,recipient_support_2,recipient_keymin_2,recipient_field_2,amount_2,motivation_3,recipient_support_3,recipient_keymin_3,recipient_field_3,amount_3
 1,once,2012-10-05T00:00:00,1,681,SUPPORT,27,29,20,127,SUPPORT,92,38,20,42,SUPPORT,26,17,2,37
 2,monthly,2012-11-30T00:00:00,2,956,SUPPORT,101,33,3,178,SUPPORT,47,18,15,304,SUPPORT,107,14,9,75
 3,once,2012-11-10T00:00:00,1,313,KEYMIN,39,32,4,494,FIELD,70,21,9,205,KEYMIN,144,25,6,235
