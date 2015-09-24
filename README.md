@@ -31,8 +31,8 @@ demoWith2ledgers.yml.gz
 All data is generated with benerator.
 
 These files are the base for our generated databases:
-* generatedDataUsedForDemodatabases.zip
-* You have to unzip the content (.csv files) to demodata/generated
+* generatedDataUsedForDemodatabases/*.csv
+* You have to copy the .csv files to demodata/generated
 
 to reproduce the databases, run in your configured OpenPetra development environment:
 

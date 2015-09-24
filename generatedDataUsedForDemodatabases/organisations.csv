@@ -1,0 +1,201 @@
+OrganisationName,Addr2,PostCode,City,Province,CountryCode,IsSupplier,Currency
+MSO,Lindenstraße 35,39317,Parey,Sachsen-Anhalt,DE,yes,EUR
+Hans-Dieter Neumann,Tannenweg 42,19217,Vitense,Mecklenburg-Vorpommern,DE,yes,EUR
+Cintia,Bergstraße 34,1594,Gleina,Sachsen,DE,no,EUR
+Mustafa Michel,Brunnenstraße 33,25779,Hennstedt,Schleswig-Holstein,DE,no,EUR
+Frank Eismann,Dorfstraße 18,34270,Schauenburg,Hessen,DE,no,EUR
+Elis Management Consultants,Bahnhofstraße 47,75305,Neuenbürg,Baden-Württemberg,DE,no,EUR
+Hans-Jürgen Dahl,Beethovenstraße 38,25337,Seeth-Ekholt,Schleswig-Holstein,DE,no,EUR
+Albium,Wiesenweg 18,39517,Bittkau,Sachsen-Anhalt,DE,yes,EUR
+Lothar Wittek Foods Deutschland GmbH,Goethestraße 4,67731,Reichenbacherhof,Rheinland-Pfalz,DE,no,EUR
+Wireology,Hauptstraße 1,85662,Hohenbrunn,Bayern,DE,no,EUR
+Polexis Krankenversicherung Deutschland GmbH & Co. KG,Raiffeisenstraße 8,65620,Waldbrunn,Hessen,DE,yes,EUR
+GigaSoft,Am Bahnhof 33,19348,Steinberg,Brandenburg,DE,no,EUR
+Parexon Automotive,Hauptstraße 7,91717,Wassertrüdingen,Bayern,DE,no,EUR
+Leorius,Kirchstraße 27,17111,Verchen,Mecklenburg-Vorpommern,DE,yes,EUR
+VentureWorld,Im Winkel 26,93464,Tiefenbach,Bayern,DE,yes,EUR
+Christian Himmel Dörzbach GmbH & Co. KG,Bachstraße 49,66871,Reichweiler,Rheinland-Pfalz,DE,no,EUR
+Herbert Müller Deutschland KG,Mühlweg 41,19065,Kritzow,Mecklenburg-Vorpommern,DE,no,EUR
+SolarWorks,Ringstraße 39,99198,Kerspleben,Thüringen,DE,no,EUR
+Avoni,Beethovenstraße 36,31094,Marienhagen,Niedersachsen,DE,no,EUR
+TradeTech,Schulstraße 37,39619,Schrampe,Sachsen-Anhalt,DE,no,EUR
+WebStation,Ringstraße 22,24852,Süderhackstedt,Schleswig-Holstein,DE,yes,EUR
+Singia,Dorfstraße 29,14662,Warsow,Brandenburg,DE,no,EUR
+QTE,Ringstraße 34,67707,Schopp,Rheinland-Pfalz,DE,yes,EUR
+Hermann Gebauer,Dorfstraße 38,53518,Kottenborn,Rheinland-Pfalz,DE,no,EUR
+YourSpace,Breslauer Straße 21,96166,Kirchlauter,Bayern,DE,yes,EUR
+Leina Deutschland GmbH,Kapellenweg 23,54636,Rittermühle,Rheinland-Pfalz,DE,no,EUR
+XHX Emissions Technologies,Am Sportplatz 7,83359,Hallabruck,Bayern,DE,no,EUR
+HGI,Hauptstraße 12,22946,Brunsbek,Schleswig-Holstein,DE,no,EUR
+HEM Versicherung,Ringstraße 41,17375,Liepgarten,Mecklenburg-Vorpommern,DE,yes,EUR
+HCQ Deutschland gemeinnützige GmbH,Tulpenweg 33,95186,Höchstädt,Bayern,DE,no,EUR
+Karl-Heinz Haarmann Computer Deutschland GmbH,Neue Straße 17,55569,Langenthal,Rheinland-Pfalz,DE,no,EUR
+Philipp Hartmann,Industriestraße 19,23992,Poischendorf Molkerei,Mecklenburg-Vorpommern,DE,yes,EUR
+Viktor Zimmer,Berliner Straße 35,23948,Parin,Mecklenburg-Vorpommern,DE,yes,EUR
+FHB,Danziger Straße 34,88273,Fronreute,Baden-Württemberg,DE,yes,EUR
+MySoft,Hauptstraße 38,14913,Kurzlipsdorf,Brandenburg,DE,yes,EUR
+Lindess Deutschland GmbH,Kapellenweg 8,29693,Böhme,Niedersachsen,DE,no,EUR
+SGV Versand,Bahnhofstraße 37,1909,Großharthau,Sachsen,DE,no,EUR
+ION,Goethestraße 41,15910,Wittmannsdorf-Bückchen,Brandenburg,DE,no,EUR
+TeleSphere Energie,Wiesenstraße 47,54634,Birtlingen,Rheinland-Pfalz,DE,no,EUR
+Adolf Keller,Tulpenweg 47,19073,Wittenförden,Mecklenburg-Vorpommern,DE,no,EUR
+Altalon,Hauptstraße 26,23689,Hobbersdorf,Schleswig-Holstein,DE,no,EUR
+CyberCard,Waldstraße 15,66894,Bechhofen,Rheinland-Pfalz,DE,yes,EUR
+Leexon,Wiesenstraße 26,65558,Burgschwalbach,Rheinland-Pfalz,DE,no,EUR
+TFA,Wiesenweg 37,85092,Köschinger Waldhaus,Bayern,DE,no,EUR
+SRK,Neue Straße 44,83071,Stephanskirchen,Bayern,DE,yes,EUR
+RPB Ebenwies Aktiengesellschaft,Amselweg 38,67808,Bennhausen,Rheinland-Pfalz,DE,yes,EUR
+UEH Zentrale,Mittelweg 47,35066,Frankenberg,Hessen,DE,no,EUR
+YWT,Dorfstraße 9,15910,Rietzneuendorf-Friedrichshof,Brandenburg,DE,yes,EUR
+TJA Packaging,Mittelstraße 36,9661,Rossau,Sachsen,DE,yes,EUR
+Evana Oil,Dorfstraße 36,99625,Großneuhausen,Thüringen,DE,yes,EUR
+Jürgen Holzinger,Hauptstraße 48,39356,Siestedt,Sachsen-Anhalt,DE,yes,EUR
+Alstrorius,Talstraße 45,9526,Rübenau,Sachsen,DE,no,EUR
+Esconi,Dorfstraße 20,55606,Heinzenberg,Rheinland-Pfalz,DE,no,EUR
+JHO Industrieanlagen,Im Winkel 39,86391,Stadtbergen,Bayern,DE,no,EUR
+Lindicom Pneumatik,Birkenweg 23,15320,Wulkow,Brandenburg,DE,no,EUR
+FJO Media,Kirchweg 8,7429,Sitzendorf,Thüringen,DE,no,EUR
+Surtexis,Breslauer Straße 45,74389,Cleebronn,Baden-Württemberg,DE,no,EUR
+Auria Komptendorf AG,Bahnhofstraße 32,96163,Gundelsheim,Bayern,DE,no,EUR
+Bernd Merz,Dorfstraße 8,97447,Frankenwinheim,Bayern,DE,no,EUR
+Dieter Schäfer Fünfeichen GmbH & Co. oHG,Bahnhofstraße 30,17459,Koserow,Mecklenburg-Vorpommern,DE,no,EUR
+Arton,Meisenweg 30,99976,Zella,Thüringen,DE,no,EUR
+ZGD,Finkenweg 15,86704,Tagmersheim,Bayern,DE,no,EUR
+ZHY Deutschland AG,Dorfstraße 32,18292,Bellin,Mecklenburg-Vorpommern,DE,yes,EUR
+AutoSpace Hammah AG,Mühlenweg 43,83556,Griesstätt,Bayern,DE,no,EUR
+Dietmar Uhrig,Amselweg 33,23911,Pogeez,Schleswig-Holstein,DE,yes,EUR
+Belergy,Lindenstraße 42,66484,Walshausen,Rheinland-Pfalz,DE,no,EUR
+Avandor Uthlede GmbH,Ringstraße 22,25712,Burg,Schleswig-Holstein,DE,yes,EUR
+Leon,Eichenweg 32,77728,Oppenau,Baden-Württemberg,DE,yes,EUR
+FTV,Beethovenstraße 35,67753,Aschbach,Rheinland-Pfalz,DE,no,EUR
+Rolf Pfeffer Warenhaus,Lindenweg 48,88422,Dürnau,Baden-Württemberg,DE,yes,EUR
+XRL Seedorf AG,Burgstraße 49,39517,Bittkau,Sachsen-Anhalt,DE,no,EUR
+LFB,Bergstraße 32,23623,Ahrensbök,Schleswig-Holstein,DE,yes,EUR
+TradeFlash Reisebüro Neuhof AG,Friedhofstraße 38,88662,Überlingen,Baden-Württemberg,DE,no,EUR
+SiliconSet Kühlenstein GmbH,Am Bahnhof 41,15306,Libbenichen,Brandenburg,DE,no,EUR
+WebServe Pietzpuhl AG,Lindenstraße 44,37589,Kalefeld,Niedersachsen,DE,yes,EUR
+Hans-Georg Westphal Services,Goethestraße 40,49191,Belm,Niedersachsen,DE,yes,EUR
+Matthias Exner,Ringstraße 8,54689,Daleiden,Rheinland-Pfalz,DE,yes,EUR
+XFC,Dorfstraße 12,16928,Kuhsdorf,Brandenburg,DE,no,EUR
+FreeSoft,Burgstraße 18,9395,Hormersdorf,Sachsen,DE,no,EUR
+Alstrum Kraftwerke,Erlenweg 5,18320,Neuenrost,Mecklenburg-Vorpommern,DE,no,EUR
+Dietrich Kuhlmann,Waldstraße 9,1734,Rabenau,Sachsen,DE,no,EUR
+RBC,Bachstraße 46,99510,Stobra,Thüringen,DE,yes,EUR
+Polexis Business Technology Consulting,Schulstraße 12,15859,Kehrigk,Brandenburg,DE,no,EUR
+BFW Deutschland GmbH & Co. KG,Poststraße 35,36452,Kaltennordheim,Thüringen,DE,yes,EUR
+Norbert Grund Automation,Rosenstraße 50,79295,Sulzburg,Baden-Württemberg,DE,no,EUR
+AutoWire,Kirchweg 29,19067,Cambs,Mecklenburg-Vorpommern,DE,no,EUR
+Michael Weber Kongress Bleckenrode GmbH & Co. KG,Buchenweg 50,54578,Basberg,Rheinland-Pfalz,DE,yes,EUR
+PowerCity,Talstraße 20,16818,Darsikow,Brandenburg,DE,no,EUR
+Album,Tulpenweg 24,67580,Hamm,Rheinland-Pfalz,DE,yes,EUR
+YXC Neese Ausbau AG,Waldweg 17,24848,Klein Rheide,Schleswig-Holstein,DE,yes,EUR
+PGC,Talstraße 24,23923,Palingen,Mecklenburg-Vorpommern,DE,no,EUR
+CompuSystems,Waldweg 49,25832,Kotzenbüll,Schleswig-Holstein,DE,yes,EUR
+Altoni Messe,Poststraße 17,24211,Preetz,Schleswig-Holstein,DE,no,EUR
+Lanxotec,Schützenstraße 44,39264,Lindau,Sachsen-Anhalt,DE,no,EUR
+BookSpace Staucha GmbH,Am Bahnhof 3,99326,Ehrenstein,Thüringen,DE,yes,EUR
+Singon,Jahnstraße 10,6542,Nienstedt,Sachsen-Anhalt,DE,yes,EUR
+MMH,Erlenweg 5,39343,Groß Santersleben,Sachsen-Anhalt,DE,no,EUR
+DynaVision,Lindenstraße 34,17179,Kleverhof,Mecklenburg-Vorpommern,DE,no,EUR
+SolarScout Kiebitzreihe AG,Ringstraße 26,93158,Teublitz,Bayern,DE,no,EUR
+Entrorius,Bahnhofstraße 7,16818,Rägelin,Brandenburg,DE,no,EUR
+CyberBot,Brunnenstraße 15,38468,Ehra-Lessien,Niedersachsen,DE,yes,EUR
+AIR,Gartenstraße 28,47652,Weeze,Nordrhein-Westfalen,DE,no,EUR
+HotStation,Hauptstraße 38,17291,Bietikow,Brandenburg,DE,no,EUR
+BookWorks,Drosselweg 25,4720,Leschen,Sachsen,DE,yes,EUR
+Alstralon Thierschneck AG,Bergstraße 11,3226,Raddusch,Brandenburg,DE,yes,EUR
+Thomas Schäfer Pharmahandel,Friedhofstraße 22,21514,Fitzen,Schleswig-Holstein,DE,no,EUR
+Georg Wolf Schalter und Sensoren,Lindenstraße 38,98704,Wümbach,Thüringen,DE,no,EUR
+TechVision,Schulstraße 28,95493,Bischofsgrün,Bayern,DE,yes,EUR
+VentureCity Werlte GmbH,Schützenstraße 19,85410,Haag,Bayern,DE,no,EUR
+Hans Knorr LB,Erlenweg 6,97070,Würzburg,Bayern,DE,no,EUR
+CQA,Birkenweg 21,2894,Vierkirchen,Sachsen,DE,no,EUR
+YTX,Jahnstraße 29,16278,Bruchhagen,Brandenburg,DE,yes,EUR
+YVL Electronic,Drosselweg 31,86920,Epfach,Bayern,DE,no,EUR
+NanoZone,Fasanenweg 6,88524,Uttenweiler,Baden-Württemberg,DE,no,EUR
+QLR,Uhlandstraße 26,96135,Stegaurach,Bayern,DE,yes,EUR
+Horst Götz,Ringstraße 43,76473,Iffezheim,Baden-Württemberg,DE,no,EUR
+GigaBot,Danziger Straße 35,56414,Berod,Rheinland-Pfalz,DE,no,EUR
+DigiBit Electronics Hümmel GmbH,Mühlenstraße 6,18230,Neu Gaarz,Mecklenburg-Vorpommern,DE,no,EUR
+Walter Rauscher,Ringstraße 11,24589,Eisendorf,Schleswig-Holstein,DE,yes,EUR
+Peter Friedrich,Finkenweg 24,99842,Ruhla,Thüringen,DE,yes,EUR
+TeleZone SatellitenFernsehen Deutschland GmbH,Kirchstraße 2,94474,Vilshofen,Bayern,DE,no,EUR
+NanoMart Power Deutschland GmbH,Königsberger Straße 30,99428,Nohra,Thüringen,DE,no,EUR
+RealStation Services Deutschland GmbH,Wiesenweg 15,96523,Eschenthal,Thüringen,DE,no,EUR
+Reinhold Seiler Computer,Am Sportplatz 35,4683,Fuchshain,Sachsen,DE,no,EUR
+Avexon,Bergstraße 30,25355,Bullenkuhlen,Schleswig-Holstein,DE,no,EUR
+MyBot Deutschland GmbH,Bergstraße 9,56759,Laubach,Rheinland-Pfalz,DE,no,EUR
+Conada,Heideweg 15,15295,Groß Lindow,Brandenburg,DE,no,EUR
+Sygnis Realisierungsmanagement Strub GmbH,Kirchstraße 32,83371,Stein,Bayern,DE,no,EUR
+Karl Schmidt Versicherung,Bachstraße 8,35282,Rauschenberg,Hessen,DE,no,EUR
+Udo Marquardt Electronics,Neue Straße 36,14793,Steinberg,Brandenburg,DE,yes,EUR
+David Neuhaus Grubnitz GmbH,Erlenweg 19,6618,Löbitz,Sachsen-Anhalt,DE,yes,EUR
+VentureCity Werke,Amselweg 28,67806,Wolfsmühle,Rheinland-Pfalz,DE,no,EUR
+WAL Informatik,Lessingstraße 32,7589,Bocka,Thüringen,DE,yes,EUR
+WTE Deutschland GmbH,Marktplatz 6,34519,Diemelsee,Hessen,DE,no,EUR
+DynaBox Deutschland GmbH,Meisenweg 11,36148,Kalbach,Hessen,DE,yes,EUR
+Albional Autovermietung,Friedhofstraße 3,99830,Treffurt,Thüringen,DE,no,EUR
+Rainer Seibold Real Estate,Bahnhofstraße 18,67677,Altenhof,Rheinland-Pfalz,DE,no,EUR
+Belium Pneumatik,Jahnstraße 3,19417,Nisbill,Mecklenburg-Vorpommern,DE,yes,EUR
+Vinzenz Weber Fachverlag,Rosenweg 1,94104,Witzmannsberg,Bayern,DE,no,EUR
+THY Schalter und Sensoren,Waldstraße 6,97334,Sommerach,Bayern,DE,yes,EUR
+WGV Erfrischungsgetränke,Erlenweg 21,92256,Hahnbach,Bayern,DE,no,EUR
+Winfried Klein,Hauptstraße 20,34396,Liebenau,Hessen,DE,no,EUR
+VentureBase,Lindenstraße 45,49777,Groß Berßen,Niedersachsen,DE,no,EUR
+Tenculus Nahrungsmittel,Berliner Straße 10,57635,Mehren,Rheinland-Pfalz,DE,no,EUR
+Siegfried Groß,Brunnenstraße 10,14974,Kerzendorf,Brandenburg,DE,no,EUR
+TradeForge,Finkenweg 48,97253,Gaukönigshofen,Bayern,DE,no,EUR
+KJK Kraftwerke,Hauptstraße 22,89335,Wiblishauserhof,Bayern,DE,no,EUR
+Procicom,Waldstraße 13,72531,Hohenstein,Baden-Württemberg,DE,no,EUR
+Lindagon Sektkellerei,Rosenstraße 24,6493,Badeborn,Sachsen-Anhalt,DE,yes,EUR
+Elubis,Goethestraße 30,1594,Treben,Sachsen,DE,no,EUR
+SolarStar,Kirchplatz 19,92364,Deining,Bayern,DE,no,EUR
+Michael Morgenstern Recruitment,Waldstraße 42,75337,Enzklösterle,Baden-Württemberg,DE,yes,EUR
+CMQ,Grüner Weg 45,29221,Celle,Niedersachsen,DE,yes,EUR
+RUF,Talstraße 37,98631,Jüchsen,Thüringen,DE,no,EUR
+NDS HealthCare,Kirchstraße 11,49774,Lähden,Niedersachsen,DE,yes,EUR
+CodeWare Pneumatik Nittenau GmbH,Lindenweg 9,16356,Ahrensfelde,Brandenburg,DE,no,EUR
+Arceo,Kirchstraße 7,17129,Alt Tellin,Mecklenburg-Vorpommern,DE,yes,EUR
+MMC,Bachstraße 33,99625,Battgendorf,Thüringen,DE,no,EUR
+Stefan Schreiber,Finkenweg 37,53572,Unkel,Rheinland-Pfalz,DE,yes,EUR
+YVM Autositze,Fliederweg 23,6493,Straßberg,Sachsen-Anhalt,DE,no,EUR
+MyStation,Mozartstraße 5,57612,Idelberg,Rheinland-Pfalz,DE,yes,EUR
+CodeWire Internet Deutschland GmbH,Schulstraße 39,83565,Tegernau,Bayern,DE,no,EUR
+Epcex,Dorfstraße 27,1471,Großdittmannsdorf,Sachsen,DE,no,EUR
+DynaDirect,Gartenstraße 14,15370,Bruchmühle,Brandenburg,DE,no,EUR
+PowerQuest Lobenstein AG & Co. KG,Waldstraße 5,56459,Stockum-Püschen,Rheinland-Pfalz,DE,no,EUR
+Edmund Andresen Mömbris GmbH,Buchenweg 42,85088,Vohburg,Bayern,DE,no,EUR
+WireTech,Bahnhofstraße 38,19273,Konau,Niedersachsen,DE,no,EUR
+Dirk Trapp,Wiesenstraße 21,16306,Luckow-Petershagen,Brandenburg,DE,no,EUR
+MicroServe,Beethovenstraße 19,24860,Klappholz,Schleswig-Holstein,DE,yes,EUR
+Klaus Blümel,Kirchstraße 36,54484,Maring-Noviand,Rheinland-Pfalz,DE,yes,EUR
+CyberWare Television,Hauptstraße 22,19217,Klein Molzahn,Mecklenburg-Vorpommern,DE,no,EUR
+JHL,Amselweg 13,89597,Unterwachingen,Baden-Württemberg,DE,no,EUR
+Dieter Bartel,Waldweg 47,73489,Reifensägmühle,Baden-Württemberg,DE,no,EUR
+Illumoni Verlag,Schulweg 20,82288,Kottgeisering,Bayern,DE,no,EUR
+SmartBot,Lerchenweg 1,54552,Utzerath,Rheinland-Pfalz,DE,yes,EUR
+PUA Krankenkasse Crawinkel GmbH,Am Bahnhof 15,22967,Tremsbüttel,Schleswig-Holstein,DE,yes,EUR
+DPO Schindhard GmbH,Marktplatz 45,6484,Quedlinburg,Sachsen-Anhalt,DE,no,EUR
+LWN Sektkellerei,Bahnhofstraße 23,39448,Etgersleben,Sachsen-Anhalt,DE,no,EUR
+Alfred Kiefer Markersdorf AG,Kapellenweg 49,23923,Klein Neuleben,Mecklenburg-Vorpommern,DE,no,EUR
+YXH,Dorfstraße 5,23992,Klein Warin,Mecklenburg-Vorpommern,DE,yes,EUR
+Envos,Mozartstraße 6,74196,Neuenstadt,Baden-Württemberg,DE,no,EUR
+Günter Rasch,Mühlenstraße 6,23923,Boitin-Resdorf,Mecklenburg-Vorpommern,DE,no,EUR
+NanoStar Technische Überwachung,Kirchweg 16,56305,Döttesfeld,Rheinland-Pfalz,DE,no,EUR
+Evis Nutzfahrzeuge,Kirchweg 37,6577,Oberheldrungen,Thüringen,DE,yes,EUR
+Harald Schade Deutschland GmbH,Hauptstraße 25,88090,Immenstaad,Baden-Württemberg,DE,no,EUR
+Lindeon,Hauptstraße 24,24790,Haßmoor,Schleswig-Holstein,DE,yes,EUR
+Andreas Schütz,Waldstraße 40,7554,Pölzig,Thüringen,DE,no,EUR
+ObjectCom,Schulstraße 37,17495,Lühmannsdorf,Mecklenburg-Vorpommern,DE,yes,EUR
+Heinrich Schütte,Bachstraße 31,7768,Seitenroda,Thüringen,DE,no,EUR
+WireDirect Werke,Goethestraße 13,19406,Loiz,Mecklenburg-Vorpommern,DE,no,EUR
+HomeScout Gars Bahnhof AG,Königsberger Straße 34,17379,Rothemühl,Mecklenburg-Vorpommern,DE,no,EUR
+Illumium Informations-Systeme,Bahnhofstraße 33,1847,Lohmen,Sachsen,DE,no,EUR
+Eless Deutschland GmbH & Co. KG,Bahnhofstraße 7,7924,Crispendorf,Thüringen,DE,yes,EUR
+WXX,Kirchweg 21,73574,Iggingen,Baden-Württemberg,DE,no,EUR
+Pentis,Waldstraße 29,85655,Kleinhelfendorf,Bayern,DE,no,EUR
+MicroDirect Au GmbH,Bahnhofstraße 8,15751,Niederlehme,Brandenburg,DE,yes,EUR
+LOT,Industriestraße 40,21493,Talkau,Schleswig-Holstein,DE,no,EUR
+Klaus Meier Krankenversicherung,Jahnstraße 1,23974,Boiensdorf,Mecklenburg-Vorpommern,DE,yes,EUR
+TeleScape Mode,Bahnhofstraße 18,27628,Bramstedt,Niedersachsen,DE,no,EUR
+GWP Deutschland AG & Co. KG,Mühlenstraße 15,91586,Lichtenau,Bayern,DE,no,EUR
